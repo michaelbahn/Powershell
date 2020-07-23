@@ -1,0 +1,461 @@
+ADGroup,UserID
+Domain Users,MCave-22
+@ORG DMS ITB SUPPORT,MCave-22
+@DLG DMS PD IIF_ReportGen_Admins,MCave-22
+@DLG ITB ASD Managers,MCave-22
+@DLG SW DMS DV ITB SOA,MCave-22
+@DLG SW DMS PD ITB ASG,MCave-22
+DLG ENT VMWare View,MCave-22
+FP DMS Devs,MCave-22
+DLG ENT CommVault TMS Administrators,MCave-22
+DLG ENT PWM,MCave-22
+DLG DMS Devs,MCave-22
+DLG ENT VMWare View Users,MCave-22
+DLG ENT VMWare SW Filezilla,MCave-22
+G_TEAM_AppServices,MCave-22
+DLG ENT VMWare SW Office 2013,MCave-22
+DLG ENT VMWare SW Visio 2013,MCave-22
+DLG ENT VMWare SW Project 2013,MCave-22
+DLG ENT CO VDI Desktop Users,MCave-22
+DLG ENT VMWare VDI CO Dev Desktop,MCave-22
+DLG ENT VMWare SW Visual Studio,MCave-22
+DLG ENT VMWare SW RDP Manager,MCave-22
+DLG ENT VMWare SW MTputty,MCave-22
+DLG ENT VMWare SW Chrome,MCave-22
+DLG ENT VMWare SW Baregrep,MCave-22
+DLG ENT VMWare SW WinSCP,MCave-22
+DLG ENT Vmware VDI PII Pool Access,MCave-22
+DLG SW Reflection Desktop,MCave-22
+DLG ENT VMWare SW SQL Management Studio 2016,MCave-22
+DLG ENT VMWare VDI GO Dev Desktop,MCave-22
+@DLG DMS PD TMS Adm,MCave-22
+@DLG DMS GPO Link,MCave-22
+G-EDD-USERS,MCave-22
+@DLG ENT ShrPt Read,MCave-22
+@FP ITB ISD Users,MCave-22
+@DLG SW Attachmate,MCave-22
+@FP ITB Staff,MCave-22
+@DLG ITB Desktop Admins,MCave-22
+@DLG ENT Desktop Admin,MCave-22
+@DLG SQL RS DMS BRS Developers,MCave-22
+G-ITB-USERS,MCave-22
+@DLG ITB Users,MCave-22
+@DLG DMS Desktop Admin,MCave-22
+@FP ITB ENTHOME1 Users,MCave-22
+@DLG DMS PD Service Accounts,MCave-22
+@FP DMS Share,MCave-22
+@FP DMS CORE TEAM,MCave-22
+@FP ITB DPD Staff,MCave-22
+@FP ITB ISMDLibPROJ,MCave-22
+@DLG SW ENT Office 2010,MCave-22
+@FP ITB ISMDLibrary,MCave-22
+@DLG DMS PD Application Support,MCave-22
+@FP ITB W2000,MCave-22
+@DLG SQL RS FSET Developers,MCave-22
+@DLG DMS Join Workstation,MCave-22
+@DLG DMS Server Admin,MCave-22
+@DLG DMS Join Server,MCave-22
+@DLG DMS SMS Reports PD Application Support,MCave-22
+@DLG SW ENT HP ITSMA,MCave-22
+DLG DMS Desktop Admins,MCave-22
+Domain Users,MCave
+DLG SW ENT Visio 2013,MCave
+DLG ENT PWM,MCave
+DLG ITB MBX IMS Alerts,MCave
+DLG ENT VMWare Console User DMS,MCave
+DLG DMS RemoteDesktop,MCave
+DLG ENT VMWare View Users,MCave
+DLG ENT VMWare SW Filezilla,MCave
+DLG ENT VMWare SW Office 2013,MCave
+DLG ENT VMWare SW SQL Management Studio 2016,MCave
+DLG ENT VMWare SW Visio 2013,MCave
+DLG ENT VMWare SW Project 2013,MCave
+DLG ENT CO VDI Desktop Users,MCave
+DLG ENT Outlook 2013 Cached,MCave
+DLG SW ENT Project 2013,MCave
+DLG ENT VMWare VDI CO Dev Desktop,MCave
+DLG ENT VMWare SW RDP Manager,MCave
+DLG ENT VMWare SW MTputty,MCave
+DLG ENT VMWare SW Chrome,MCave
+DLG ENT VMWare SW Baregrep,MCave
+DLG ENT VMWare SW WinSCP,MCave
+DLG ENT Outlook 2013 PST ReadOnly,MCave
+DLG SW ENT Adobe Acrobat,MCave
+DLG ENT Vmware VDI PII Pool Access,MCave
+DLG SW Reflection Desktop,MCave
+DLG ENT VPN SmartCard Only,MCave
+DLG ENT VMWare VDI GO Dev Desktop,MCave
+DLG ENT GO VDI PII Pool Users,MCave
+DLG ENT GO VDI NonProd Pool Users,MCave
+DLG ENT VMWare SW Visual Studio,MCave
+DLG ADM MBX DIMC DMS Image Cash Letter,MCave
+DLG ENT Mobile Access Enterprise,MCave
+DLG ENT VMWare View,MCave
+G-EDD-USERS,MCave
+@DLG ENT ShrPt Read,MCave
+@FP ITB ISD Users,MCave
+@DLG SW Attachmate,MCave
+@FP ITB Staff,MCave
+DLG ADM MBX DIMC BDO,MCave
+@DLG SQL RS DMS BRS Developers,MCave
+G-ITB-USERS,MCave
+@DLG ITB Users,MCave
+@FP ITB ENTHOME1 Users,MCave
+@FP DMS Share,MCave
+@DLG SW ENT HP ITSMA,MCave
+@DLG DMS RemoteDesktop,MCave
+@FP DMS CORE TEAM,MCave
+@FP ITB DPD Staff,MCave
+@FP ITB ISMDLibPROJ,MCave
+@DLG SW ENT Office 2010,MCave
+@FP ITB ISMDLibrary,MCave
+@FP ITB W2000,MCave
+@DLG SQL RS FSET Developers,MCave
+@DLG DMS SMS Reports PD Application Support,MCave
+G_TEAM_AppServices,MCave
+@ORG DMS ITB SUPPORT,MCave
+DLG ENT OTP VPN Users,MCave
+@DLG SW ENT InfoImage,MCave
+@DLG DMS PD IIF_ReportGen_Admins,MCave
+@DLG ITB ASD Managers,MCave
+@DLG SW DMS DV ITB SOA,MCave
+@DLG SW DMS PD ITB ASG,MCave
+DLG ENT TalentMgtSystem User,MCave
+DLG ENT OWA MFA Users,MCave
+Domain Users,MBahn
+DLG ITB SP ISD SCS,MBahn
+@DLG SW DMS PD ITB ASG,MBahn
+DLG ADM MBX DIMC DMS Image Cash Letter,MBahn
+DLG SW ENT Visio 2013,MBahn
+DLG ENT PWM,MBahn
+DLG ENT Cert Alerts DMS,MBahn
+DLG ENT VMWare Console User DMS,MBahn
+DLG DMS RemoteDesktop,MBahn
+DLG ENT VMWare SW SQL Management Studio 2016,MBahn
+DLG ENT Outlook 2013 Cached,MBahn
+DLG ENT VMWare SW RDP Manager,MBahn
+DLG ENT VMWare SW MTputty,MBahn
+DLG ENT VMWare SW Baregrep,MBahn
+DLG ENT Outlook 2013 PST ReadOnly,MBahn
+DLG SW ENT Adobe Acrobat,MBahn
+DLG ENT Vmware VDI PII Pool Access,MBahn
+DLG ENT VPN SmartCard Only,MBahn
+DLG ENT GO VDI PII Pool Users,MBahn
+DLG ENT GO VDI NonProd Pool Users,MBahn
+DLG ITB SP ISD RS,MBahn
+DLG ENT TalentMgtSystem User,MBahn
+DLG ITB SP ISD Infrastructure Support Services Section,MBahn
+@FP ITB W2000,MBahn
+@DLG SW ENT GenTax,MBahn
+G-EDD-USERS,MBahn
+@DLG ENT ShrPt Read,MBahn
+@FP ITB ISD Staff,MBahn
+@FP ITB ISD Users,MBahn
+@FP ITB Staff,MBahn
+@DLG ENT SMS Helpdesk,MBahn
+@DLG GenTax IVPN Users,MBahn
+G-ITB-USERS,MBahn
+@DLG ITB Users,MBahn
+@DLG SW Ent Winzip,MBahn
+@DLG SW ENT HP ITSMA,MBahn
+@DLG DMS RemoteDesktop,MBahn
+@DLG ITB DPD Users,MBahn
+ENT SMS Help Desk,MBahn
+@FP ITB ISMDLibPROJ,MBahn
+@DLG SW ENT Office 2010,MBahn
+@FP DMS Project Team,MBahn
+@DLG ITB EDD Share,MBahn
+DLG ITB SP ISD CSS,MBahn
+DLG ENT OWA MFA Users,MBahn
+Domain Users,MBahn-22
+@DLG DMS PD Application Support,MBahn-22
+@FP ITB W2000,MBahn-22
+@DLG DMS PP JB ADM,MBahn-22
+@DLG DMS Join Workstation,MBahn-22
+@DLG DMS Join Server,MBahn-22
+@DLG DMS IndependentlyManaged,MBahn-22
+@DLG DMS PP DMG ICAP SUP,MBahn-22
+@DLG DMS PD TMS Adm,MBahn-22
+@DLG DMS OU Admin,MBahn-22
+@DLG DMS PD OPERATIONS SUPPORT,MBahn-22
+@DLG DMS PD IMG ICAP Sup,MBahn-22
+@DLG SW DMS PD ITB ASG,MBahn-22
+@DLG ITB EASE FSR Group,MBahn-22
+DLG DMS VMWare Server Admin,MBahn-22
+DLG ITB Desktop Admin,MBahn-22
+DLG ENT Cert Admins DMS,MBahn-22
+DLG ENT PWM,MBahn-22
+@DLG DMS PD DMG ICAP Sup,MBahn-22
+@DLG ITB EDD Share,MBahn-22
+@FP DMS Project Team,MBahn-22
+@DLG Util Srv Adm,MBahn-22
+@DLG SW ENT GenTax,MBahn-22
+G-EDD-USERS,MBahn-22
+@FP ITB ISD Staff,MBahn-22
+@DLG ENT Developer Admin,MBahn-22
+@FP ITB ISD Users,MBahn-22
+@FP ITB Staff,MBahn-22
+@DLG ENT ServerSupport Admins,MBahn-22
+@DLG ENT SMS Helpdesk,MBahn-22
+DLG ENT ARS DMS Support,MBahn-22
+@DLG ENT Desktop Admin,MBahn-22
+@DLG ITB Users,MBahn-22
+@DLG DMS Desktop Admin,MBahn-22
+@DLG SW Ent Winzip,MBahn-22
+@DLG SW ENT HP ITSMA,MBahn-22
+@DLG DMS RemoteDesktop,MBahn-22
+@DLG ITB DPD Users,MBahn-22
+ENT SMS Help Desk,MBahn-22
+@FP ITB ISMDLibPROJ,MBahn-22
+G-ITB-USERS,MBahn-22
+DLG DMS Desktop Admins,MBahn-22
+Domain Users,DWomack
+DLG SW ENT Visio 2013,DWomack
+Utilities,DWomack
+DLG ADM MBX DIMC DMS Image Cash Letter,DWomack
+ITB TEAM Staff,DWomack
+DLG ENT TFA Safenet Multi-Token User,DWomack
+DLG DSMS GTO,DWomack
+DLG ITB SP PSD CSS,DWomack
+DLG ENT PWM,DWomack
+@DLG DMS PD IMG ICAP Sup,DWomack
+@DLG SW ENT InfoImage,DWomack
+DLG ENT OTP VPN Users,DWomack
+@DLG DMS SMS Reports PD Application Support,DWomack
+@FP DMS L03DataGTO01 Server Share,DWomack
+@DLG ITB MBX DMS Server TEAMSERV,DWomack
+@DLG DMS SMS Helpdesk,DWomack
+@DLG DMS PD DMG WM Scan,DWomack
+@DLG ITB TEAM IIF,DWomack
+@DLG DMS User,DWomack
+DLG ENT Cert Alerts DMS,DWomack
+DLG ENT VMWare Goethe LogInsight View,DWomack
+DLG ENT TalentMgtSystem User,DWomack
+DLG ENT VPN SmartCard Only,DWomack
+DLG ENT Vmware VDI PII Pool Access,DWomack
+DLG ENT Vmware VDI NonProd Pool Access,DWomack
+DLG SW ENT Adobe Acrobat,DWomack
+DLG ENT Outlook 2013 PST ReadOnly,DWomack
+DLG ENT VMWare SW Chrome,DWomack
+DLG ITB MBX Information Connect,DWomack
+DLG ENT VMWare SW MTputty,DWomack
+DLG ENT Outlook 2013 Cached,DWomack
+DLG ENT VMWare SW SQL Management Studio 2016,DWomack
+DLG ENT VMWare SW Filezilla,DWomack
+DLG ENT VMWare View Users,DWomack
+DLG DMS RemoteDesktop,DWomack
+DLG ENT VMWare Console User DMS,DWomack
+DLG ENT VMWare NSX Auditor,DWomack
+DLG ENT VMWare SW RDP Manager,DWomack
+@FP DMS Altiris RLE Express Share,DWomack
+G_EDD_TEAM,DWomack
+TEAM IIF Library All,DWomack
+@DLG ITB Users,DWomack
+G-ITB-USERS,DWomack
+@DLG DMS PD IIF_ReportGen_Users,DWomack
+@DLG SW InfoI-RptGen,DWomack
+@DLG ENT RemoteDesktop,DWomack
+@DLG GenTax IVPN Users,DWomack
+@FP ITB Staff,DWomack
+@DLG ITB PSD AO,DWomack
+@DLG_IIF_BENIIF_USER,DWomack
+@DLG SW TAX InfoImage 7,DWomack
+@DLG ITB Y2K ROCITREF,DWomack
+@DLG SW VISIO 2003,DWomack
+@DLG SW UeWi,DWomack
+@DLG ENT ShrPt Read,DWomack
+@DLG TAX Software UeWi,DWomack
+G-EDD-USERS,DWomack
+@DLG ITB Y2K Users,DWomack
+@DLG SW Ent Winzip,DWomack
+@FP DMS Share,DWomack
+@DLG SW ENT HP ITSMA,DWomack
+@DLG SW ENT Visio 2010,DWomack
+@DLG ITB PSD AO APR,DWomack
+@DLG ITB EDD Share,DWomack
+@FP ITB PSD VSS,DWomack
+@FP DMS Project Team,DWomack
+@DLG TAX MBX FSET,DWomack
+@FP ENT SMS Shared Resources,DWomack
+@FP ITB ISMDLibrary,DWomack
+@DLG SW ENT Office 2010,DWomack
+@DLG ITB PSD Users,DWomack
+@FP ITB PSD Staff,DWomack
+@FP ITB ISMDLibPROJ,DWomack
+@FP DMS SP IIF INFO,DWomack
+@FP DMS SP REMIT INFO,DWomack
+@DLG ITB ISD Client Solution Section,DWomack
+@DLG DMS PD DMG ICAP Scan2,DWomack
+@DLG DMS RemoteDesktop,DWomack
+DLG SW InfoImage CWM,DWomack
+DLG ENT OWA MFA Users,DWomack
+Domain Users,DWomack-22
+@DLG DMS SMS Reports PD Application Support,DWomack-22
+@DLG DMS Join Server,DWomack-22
+@DLG DMS Secured PswReset Unlock,DWomack-22
+@DLG DMS Server Admin,DWomack-22
+@FP DMS L03DataGTO01 Server Share,DWomack-22
+@DLG DMS Join Workstation,DWomack-22
+@DLG DMS PP JB ADM,DWomack-22
+@DLG DMS RemoteAssistance,DWomack-22
+@DLG DMS SMS Helpdesk,DWomack-22
+@DLG DMS Secured User,DWomack-22
+@DLG DMS Secured Account Unlock,DWomack-22
+@DLG DMS PD DMG WM Scan,DWomack-22
+@DLG DMS User,DWomack-22
+@DLG DMS Account Unlock,DWomack-22
+@FP DMS Altiris RLE Express Share,DWomack-22
+@DLG DMS GPO Link,DWomack-22
+@DLG DMS IndependentlyManaged,DWomack-22
+@DLG DMS PP Service Accounts,DWomack-22
+@DLG DMS PD Service Accounts,DWomack-22
+DLG ENT Backup and Data Recovery DMS,DWomack-22
+DLG ENT PWM,DWomack-22
+DLG ENT CommVault TMS Administrators,DWomack-22
+DLG ENT Cert Admins DMS,DWomack-22
+Utilities,DWomack-22
+DLG ADM MBX DIMC DMS Image Cash Letter,DWomack-22
+ITB TEAM Staff,DWomack-22
+G_EDD_TEAM,DWomack-22
+DLG ENT TFA Safenet Multi-Token User,DWomack-22
+DLG DSMS GTO,DWomack-22
+@DLG DMS PD IMG ICAP Sup,DWomack-22
+@DLG ITB TEAM IIF,DWomack-22
+@DLG SW ENT InfoImage,DWomack-22
+@DLG DMS OU Admin,DWomack-22
+@DLG DMS PD TMS Adm,DWomack-22
+@DLG ITB TEAM Server Admins,DWomack-22
+DLG DMS VMWare Server Admin,DWomack-22
+DLG ENT ARS DMS Support,DWomack-22
+@DLG ENT Commvault Goethe Ops,DWomack-22
+@DLG DMS PD Application Support,DWomack-22
+@DLG ITB PSD AO,DWomack-22
+@DLG ITB Users,DWomack-22
+G-ITB-USERS,DWomack-22
+@DLG DMS PD IIF_ReportGen_Users,DWomack-22
+@DLG SW InfoI-RptGen,DWomack-22
+@DLG ENT RemoteDesktop,DWomack-22
+@DLG ENT Desktop Admin,DWomack-22
+@FP ITB Staff,DWomack-22
+@DLG_IIF_BENIIF_USER,DWomack-22
+@DLG ITB Y2K Users,DWomack-22
+@DLG ITB Y2K ROCITREF,DWomack-22
+@DLG SW VISIO 2003,DWomack-22
+@DLG ENT ShrPt Read,DWomack-22
+@DLG TAX Software UeWi,DWomack-22
+G-EDD-USERS,DWomack-22
+@DLG DMS PD FAM Update,DWomack-22
+@DLG DMS Desktop Admin,DWomack-22
+@DLG SW Ent Winzip,DWomack-22
+@FP DMS Share,DWomack-22
+@DLG ITB PSD AO APR,DWomack-22
+@DLG ITB EDD Share,DWomack-22
+@FP ITB PSD VSS,DWomack-22
+@FP DMS Project Team,DWomack-22
+@FP ENT SMS Shared Resources,DWomack-22
+@FP ITB ISMDLibrary,DWomack-22
+@DLG SW ENT Office 2010,DWomack-22
+TEAM IIF Library All,DWomack-22
+@DLG ITB PSD Users,DWomack-22
+@FP ITB ISMDLibPROJ,DWomack-22
+@FP DMS SP IIF INFO,DWomack-22
+@FP DMS SP REMIT INFO,DWomack-22
+@DLG ITB ISD Client Solution Section,DWomack-22
+@DLG DMS PD DMG ICAP Scan2,DWomack-22
+@DLG DMS RemoteDesktop,DWomack-22
+@DLG SW ENT HP ITSMA,DWomack-22
+@FP ITB PSD Staff,DWomack-22
+DLG DMS Desktop Admins,DWomack-22
+Domain Users,RDuda
+DLG ENT OTP VPN Users,RDuda
+@DLG ITB ASD Managers,RDuda
+@DLG SW DMS DV ITB SOA,RDuda
+@DLG SW DMS PD ITB ASG,RDuda
+DLG ENT VMWare View,RDuda
+DLG ENT Mobile Access Enterprise,RDuda
+DLG ADM MBX DIMC DMS Image Cash Letter,RDuda
+DLG SW ENT Adobe Acrobat 11 Pro,RDuda
+DLG SW ENT Project 2013,RDuda
+@ORG DMS ITB SUPPORT,RDuda
+DLG SW ENT Visio 2013,RDuda
+DLG ITB MBX IMS Alerts,RDuda
+DLG ENT VMWare Console User DMS,RDuda
+DLG DMS RemoteDesktop,RDuda
+DLG ENT Outlook 2013 Cached,RDuda
+DLG ENT Outlook 2013 PST ReadOnly,RDuda
+DLG SW ENT Adobe Acrobat,RDuda
+DLG ENT Vmware VDI NonProd Pool Access,RDuda
+DLG SW Reflection Desktop,RDuda
+DLG ENT VPN SmartCard Only,RDuda
+DLG ENT PWM,RDuda
+G_TEAM_AppServices,RDuda
+@DLG DMS SMS Reports PD Application Support,RDuda
+@DLG SQL RS FSET Developers,RDuda
+G-EDD-USERS,RDuda
+@DLG ENT ShrPt Read,RDuda
+@FP ITB ISD Users,RDuda
+@DLG SW Attachmate,RDuda
+@FP ITB Staff,RDuda
+DLG ADM MBX DIMC BDO,RDuda
+@DLG SQL RS DMS BRS Developers,RDuda
+G-ITB-USERS,RDuda
+@DLG ITB Users,RDuda
+@FP ITB ENTHOME1 Users,RDuda
+@FP DMS Share,RDuda
+@DLG SW ENT HP ITSMA,RDuda
+@DLG DMS RemoteDesktop,RDuda
+@FP DMS CORE TEAM,RDuda
+@DLG SW ENT Project 2010,RDuda
+@FP ITB DPD Staff,RDuda
+@FP ITB ISMDLibPROJ,RDuda
+@DLG SW ENT Office 2010,RDuda
+@FP ITB ISMDLibrary,RDuda
+@DLG SW ENT Visio 2010,RDuda
+@FP ITB W2000,RDuda
+DLG ENT TalentMgtSystem User,RDuda
+DLG ENT OWA MFA Users,RDuda
+Domain Users,RDuda-22
+@DLG SQL RS FSET Developers,RDuda-22
+@DLG DMS PP JB ADM,RDuda-22
+@DLG DMS Join Workstation,RDuda-22
+@DLG DMS Server Admin,RDuda-22
+@DLG DMS Join Server,RDuda-22
+@DLG DMS SMS Reports PD Application Support,RDuda-22
+@DLG DMS GPO Link,RDuda-22
+@DLG DMS PD Service Accounts,RDuda-22
+@DLG DMS PD TMS Adm,RDuda-22
+G_TEAM_AppServices,RDuda-22
+@ORG DMS ITB SUPPORT,RDuda-22
+@DLG ITB ASD Managers,RDuda-22
+@DLG SW DMS DV ITB SOA,RDuda-22
+@DLG SW DMS PD ITB ASG,RDuda-22
+DLG ENT VMWare View,RDuda-22
+FP DMS Devs,RDuda-22
+DLG ENT CommVault TMS Administrators,RDuda-22
+DLG ENT PWM,RDuda-22
+DLG DMS Devs,RDuda-22
+@FP ITB W2000,RDuda-22
+DLG SW Reflection Desktop,RDuda-22
+@DLG DMS PD Application Support,RDuda-22
+@FP ITB ISMDLibrary,RDuda-22
+G-EDD-USERS,RDuda-22
+@DLG ENT ShrPt Read,RDuda-22
+@FP ITB ISD Users,RDuda-22
+@DLG SW Attachmate,RDuda-22
+@FP ITB Staff,RDuda-22
+@DLG ITB Desktop Admins,RDuda-22
+@DLG ENT Desktop Admin,RDuda-22
+@DLG SQL RS DMS BRS Developers,RDuda-22
+G-ITB-USERS,RDuda-22
+@DLG ITB Users,RDuda-22
+@DLG DMS Desktop Admin,RDuda-22
+@FP ITB ENTHOME1 Users,RDuda-22
+@FP DMS Share,RDuda-22
+@DLG SW ENT HP ITSMA,RDuda-22
+@FP DMS CORE TEAM,RDuda-22
+@DLG SW ENT Project 2010,RDuda-22
+@FP ITB DPD Staff,RDuda-22
+@FP ITB ISMDLibPROJ,RDuda-22
+@DLG SW ENT Office 2010,RDuda-22
+@DLG SW ENT Visio 2010,RDuda-22
+DLG DMS Desktop Admins,RDuda-22

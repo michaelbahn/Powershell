@@ -1,0 +1,11 @@
+D:\Test\DIA
+\\Dgvmbrbepd01\d$\RBE01
+\\Dgvmbrbepd02\d$\RBE02
+\\Dgvmbrbepd03\d$\RBE03
+\\Dgvmbrbepd04\d$\RBE04
+\\Dgvmtrbepd01\d$\RBE01
+\\Dgvmtrbepd02\d$\RBE02
+\\Dgvmtrbepd03\d$\RBE03
+\\Dgvmdrbepd01\d$\RBE01
+\\Dgvmdrbepd02\d$\RBE02
+\\Dgvmprbepd01\d$\RBE01

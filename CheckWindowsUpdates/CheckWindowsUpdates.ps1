@@ -1,0 +1,1 @@
+﻿$return = wmic qfe list

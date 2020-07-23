@@ -1,0 +1,9 @@
+RBEpath,ReconPath.SQLpath
+\\Dgvmbrbepd01\d$\RBE01,\\dgvmappuipd01\dms\rbeben\recon,DGVMSQLUIPD03\DMGOVIRDBPD09
+\\Dgvmbrbepd02\d$\RBE02,\\dgvmappuipd01\dms\rbeben\recon,DGVMSQLUIPD03\DMGOVIRDBPD09
+\\Dgvmbrbepd03\d$\RBE03,\\dgvmappuipd01\dms\rbeben\recon,DGVMSQLUIPD03\DMGOVIRDBPD09
+\\Dgvmbrbepd04\d$\RBE04,\\dgvmappuipd01\dms\rbeben\recon,DGVMSQLUIPD03\DMGOVIRDBPD09
+\\Dgvmtrbepd01\RBE01,\\dgvmapptaxpd01\DMS\RBETAX\RECON,DGVMSQLUIPD01\DMGOVIRDBPD05
+\\Dgvmtrbepd02\RBE02,\\dgvmapptaxpd01\DMS\RBETAX\RECON,DGVMSQLUIPD01\DMGOVIRDBPD05
+\\Dgvmtrbepd03\RBE03,\\dgvmapptaxpd01\DMS\RBETAX\RECON,DGVMSQLUIPD01\DMGOVIRDBPD05
+

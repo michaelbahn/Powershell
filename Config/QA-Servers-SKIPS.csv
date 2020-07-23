@@ -1,0 +1,10 @@
+Name,IPAddress,Domain,Subnet,DefaultGateway,DNS1,DNS2,WINSPrimaryServer,WINSSecondaryServer,IPversion,LMHOSTS_Lookup,NetBIOSoverTCPIP,SNMP_Status,SNMP_StartupType,SNMP_Contact,SNMP_Location,SNMP_TrapDestination,RemoteDesktopEnabled,AllowRemoteOnlyNLA,WindowsUpdate,IE_ESC_Admin,IE_ESC_User,ScreenSaverTimeout,PowerSleepTimeout,AlwaysShowMenus,DisplayFileSizeFolderTips,HiddenFilesAndFolders,HideEmptyDrives,HideFileExtensions,AlwaysShowIcons,DisplayFullPathInTitleBar
+DGVMAPPSKIPPD01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMAPPSKIPPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMAPPSKIPDV01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMSQLSKIPPD01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMSQLSKIPPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMSQLSKIPDV01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMWEBSKIPPD01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMWEBSKIPPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMWEBSKIPDV01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

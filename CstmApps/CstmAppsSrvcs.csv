@@ -1,0 +1,12 @@
+MachineName,ServiceName,Status
+dgvmappuipd01,DMS_IEMSvc, Running
+DGVMAPPTAXPD01,DmsIcmServices, Running
+DGVMDMSPD01,DMS.Storage.ArchivePurgeService,Running
+Dgvmappentpd01,DmsIcmServices,Running
+Dgvmappentpd01,DMS_IEMSvc,Running
+Dgvmappentpd02,DMSFAXService,Running
+Dgvmappentpd02,DMSFAXACKWinService,Running
+DGVMAPPUIPD01,DmsIcmServices,Running
+DGVMAPPDIAPD01,DMS_IEMSvc,Running
+DGVMAPPENTPD01,EDD.DMS.FileUtilityService,Running
+DGVMAPPDIAPD01,DmsIcmServices,Running

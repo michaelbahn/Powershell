@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<EmployerTPASeparation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://uidataexchange.org/schemas">
+  <EmployerTPASeparationRequest>
+    <StateRequestRecordGUID>dbe6a2308ec443d8bba0b358c6245a79</StateRequestRecordGUID>
+    <SSN>547811031</SSN>
+    <ClaimEffectiveDate>2018-12-16</ClaimEffectiveDate>
+    <StateEmployerAccountNbr>4529791</StateEmployerAccountNbr>
+    <EmployerName>CULINARY SERVICES OF AMER</EmployerName>
+    <FEIN>452979100</FEIN>
+    <TypeofEmployerCode>2</TypeofEmployerCode>
+    <TypeofClaimCode>1</TypeofClaimCode>
+    <BenefitYearBeginDate>2018-12-16</BenefitYearBeginDate>
+    <RequestingStateAbbreviation>CA</RequestingStateAbbreviation>
+    <UIOfficeName>CA EDD  #0400</UIOfficeName>
+    <UIOfficePhone>8003005616</UIOfficePhone>
+    <ClaimantLastName>TAVAREZ</ClaimantLastName>
+    <ClaimantFirstName>SHANE</ClaimantFirstName>
+    <ClaimantMiddleInitial>T</ClaimantMiddleInitial>
+    <ClaimantReportedLastDayofWork>2018-12-03</ClaimantReportedLastDayofWork>
+    <WagesWeeksNeededCode>NA</WagesWeeksNeededCode>
+    <ClaimantSepReasonCode>3</ClaimantSepReasonCode>
+    <ClaimantSepReasonComments>WAS NOT GIVEN A REASON BY MY EMPLOYER.</ClaimantSepReasonComments>
+    <RequestDate>2018-12-26</RequestDate>
+    <ResponseDueDate>2019-01-07</ResponseDueDate>
+    <FormNumber>DE 1101CZ</FormNumber>
+    <PIN>EivHt29i</PIN>
+  </EmployerTPASeparationRequest>
+  <EmployerTPASeparationResponse xsi:type="StateSeparationResponseType">
+    <StateRequestRecordGUID>dbe6a230-8ec4-43d8-bba0-b358c6245a79</StateRequestRecordGUID>
+    <BrokerRecordTransactionNumber>27800584</BrokerRecordTransactionNumber>
+    <RequestDate>0001-01-01</RequestDate>
+    <ResponseDueDate>0001-01-01</ResponseDueDate>
+    <SSN>547811031</SSN>
+    <ClaimEffectiveDate>2018-12-16</ClaimEffectiveDate>
+    <StateEmployerAccountNbr>4529791</StateEmployerAccountNbr>
+    <EmployerName>CULINARY SERVICES OF AMER</EmployerName>
+    <ClaimantLastName>TAVAREZ</ClaimantLastName>
+    <ClaimantFirstName>SHANE</ClaimantFirstName>
+    <ClaimantMiddleInitial>T</ClaimantMiddleInitial>
+    <ClaimantJobTitle>Cook</ClaimantJobTitle>
+    <SeasonalEmploymentInd>N</SeasonalEmploymentInd>
+    <EmployerReportedClaimantFirstDayofWork>2018-05-07</EmployerReportedClaimantFirstDayofWork>
+    <EmployerReportedClaimantLastDayofWork>2018-11-28</EmployerReportedClaimantLastDayofWork>
+    <EffectiveSeparationDate>2018-12-10</EffectiveSeparationDate>
+    <TotalWeeksWorked>0</TotalWeeksWorked>
+    <WagesEarnedAfterClaimEffectiveDate>0.00</WagesEarnedAfterClaimEffectiveDate>
+    <NumberOfHoursWorkedAfterClaimEffectiveDate>0</NumberOfHoursWorkedAfterClaimEffectiveDate>
+    <AverageWeeklyWage>220.10</AverageWeeklyWage>
+    <EmployerSepReasonCode>3</EmployerSepReasonCode>
+    <AverageNumberofHoursWorkedperWeek>12</AverageNumberofHoursWorkedperWeek>
+    <ClaimantPensionContributionPercent>0</ClaimantPensionContributionPercent>
+    <DischargeReasonCode>5</DischargeReasonCode>
+    <FinalIncidentReason>Shane called on 12/7 at 9:22AM, spoke with Angelica. Began complaining about suspension, becoming aggressive. Informed Shane he needs to speak with the HR Director when they come in. He replied "No, she needs to call me because I'm behind on bills." And hung up. Shane called again at 1:55PM. Spoke with HR Director Jessica. Jessica brought up the shift he was on suspension for. Shane began raising his voice, said that's not what happened, that this is our fault and we are causing him to lose money. Jessica stated she would not speak with him any further until he calms down. Shane began mocking her. Jessica replied she will not speak to him with that tone. Shane requested final paycheck. Jessica said ok. Shane hung up. Shane called back, asked to speak with Randy, the company owner. Randy picked up, Shane started yelling at her. Randy could not get a word in so she hung up. Shane called back, was still yelling, Randy told him he is terminated and his final paycheck is here.</FinalIncidentReason>
+    <FinalIncidentDate>2018-12-07</FinalIncidentDate>
+    <ViolateCompanyPolicyInd>Y</ViolateCompanyPolicyInd>
+    <DischargePolicyAwareInd>N</DischargePolicyAwareInd>
+    <PriorIncidentOccurrence>
+      <PriorIncidentDate>2018-11-28</PriorIncidentDate>
+      <PriorIncidentReason>Shane did not show up to his shift at Compass/Amgen pm 11/28. We were notified by the client that he was a no call no show. After receiving notice, Rose Walker, Account Manager for Amgen, called Shane who claimed he forgot to tell us. At this time he had accrued two attendance issues in two days, so he was placed on suspension in order for us to perform an investigation and remind Shane of our policies.</PriorIncidentReason>
+      <PriorIncidentWarningInd>Y</PriorIncidentWarningInd>
+      <PriorIncidentWarningDate>2018-12-07</PriorIncidentWarningDate>
+      <PriorIncidentWarningDescription>Over the phone, before he became aggressive.</PriorIncidentWarningDescription>
+    </PriorIncidentOccurrence>
+    <PriorIncidentOccurrence>
+      <PriorIncidentDate>2018-11-27</PriorIncidentDate>
+      <PriorIncidentReason>Shane left his shift at Compass/Amgen at 12:54PM due to family emergency. His shift ended at 2PM. He did not notify us.</PriorIncidentReason>
+      <PriorIncidentWarningInd>N</PriorIncidentWarningInd>
+      <PriorIncidentWarningDate>2018-11-27</PriorIncidentWarningDate>
+      <PriorIncidentWarningDescription>Verbal</PriorIncidentWarningDescription>
+    </PriorIncidentOccurrence>
+    <WhoDischargedName>Randy Hopp</WhoDischargedName>
+    <WhoDischargedTitle>President and Owner</WhoDischargedTitle>
+    <DischargeReasonComments>Shane's termination was preventable. Our suspension would have been followed with a warning and re-activation. However because of Shane's hostility towards our in-house staff, to which he berated our Receptionist, HR Assistant, HR Director, and Owner, we could not keep him employed as staff became concerned for their safety.</DischargeReasonComments>
+    <PreparerTypeCode>E</PreparerTypeCode>
+    <PreparerTelephoneNumberPlusExt>3239657585</PreparerTelephoneNumberPlusExt>
+    <PreparerContactName>Angelica Barker</PreparerContactName>
+    <PreparerTitle>HR Assistant</PreparerTitle>
+    <PreparerEmailAddress>angelica@culinarystaffing.com</PreparerEmailAddress>
+    <BrokerRecordEffectiveDate>2019-01-02T13:31:01</BrokerRecordEffectiveDate>
+  </EmployerTPASeparationResponse>
+</EmployerTPASeparation>

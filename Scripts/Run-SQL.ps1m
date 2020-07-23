@@ -1,0 +1,6 @@
+﻿Function Query-DLN (param  ([string] $sqlInstance = $(throw "SQL Instance is required"), [string] $database = $(throw "SQL database is required"), [string] $dln = $(throw "DLN is required") )
+{
+    $query = "SELECT dln FROM [$($database.Trim())].[dbo].[ATTRIBUTES] WHERE dln like '$($dln)%'"
+    $resultSet =  Invoke-Sqlcmd -Query $query -ServerInstance $sqlInstance 
+    return $resultSet
+}

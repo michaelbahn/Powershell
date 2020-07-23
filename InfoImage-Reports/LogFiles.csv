@@ -1,0 +1,14 @@
+column1,column2,prodLogPath,tmeLogPath,subsection
+SA Console,Total number of files created:,\\dgvmtrptpd01\SAConsoleAPI\Log,\\dgvmtrptpd01\d$\TME\Logs\SAConsoleLog,
+SA Console,Total number of workitems processed:,\\dgvmtrptpd01\SAConsoleAPI\Log,\\dgvmtrptpd01\d$\TME\Logs\SAConsoleLog,
+Tax Reports,Query Row Total =,\\Dgvmtrptpd01\DMS.TRCC.Console\Logs,\\dgvmtrptpd01\d$\TME\Logs\TaxReportsCollectionConsoleLog,INFO_CS1
+Tax Reports,Query Row Total =,\\Dgvmtrptpd01\DMS.TRCC.Console\Logs,\\dgvmtrptpd01\d$\TME\Logs\TaxReportsCollectionConsoleLog,INFO_CS2
+Tax Reports,Query Row Total =,\\Dgvmtrptpd01\DMS.TRCC.Console\Logs,\\dgvmtrptpd01\d$\TME\Logs\TaxReportsCollectionConsoleLog,INFO_CS3
+Tax Reports,Query Row Total =,\\Dgvmtrptpd01\DMS.TRCC.Console\Logs,\\dgvmtrptpd01\d$\TME\Logs\TaxReportsCollectionConsoleLog,INFO_CS4
+Workset Update,Total no. of files processed:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+Workset Update,Total no. of files processed successfully:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+Workset Update,Total no. of files in error:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+Workset Update,Total no. workitems processed in all worksets:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+Workset Update,Total no. of successful updates made:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+Workset Update,Total no. of unsuccessful updates made:,\\dgvmtrptpd01\WorksetUpdate\log,\\dgvmtrptpd01\d$\TME\Logs\WorkSetUpdateLog,,
+

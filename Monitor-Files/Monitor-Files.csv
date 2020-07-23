@@ -1,0 +1,18 @@
+Title,Folder,FileName,DateFormat,StartTime,StopTime,SizeLimitMB,dayThresholdLow,minuteThresholdLow,dayThresholdHigh,minuteThresholdHigh
+BOCA Transaction Log,\\DGVMTRPTPD01\d$\BOCAIIF\Logs,DMSIIFTransLog%.log,MMddyyyy,17:30,18:00,,,,,
+EMDU.NER.TEAM.PC.COUNTS for FSET Reports,\\dgvmappentpd01\DMS\IEM\FSET\FSETReportsDir,EMDU.NER.TEAM.PC.COUNTS.X%,yyMMdd,11:00,14:35,,,,,
+Unisys CAS Manager Console: BSTORE01,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR01,,7:00,15:00,100,,,,
+Unisys CAS Manager Console: BSTORE02,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR02,,7:00,15:00,100,,,,
+Unisys CAS Manager Console: BSTORE03,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR03,,7:00,15:00,100,,,,
+Unisys CAS Manager Console: BSTORE04,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR04,,7:00,15:00,100,,,,
+DE1 Fax ACK monitoring,\\dgvmappentpd02\DMS\DE1-Processing\Logs,DMSFAXACKTransLog%.log,MMddyyyy,8:30,9:30,,,,,
+Current Date TRACK.DAT,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,TRACK.DAT.%.*,MMdd,10:00,14:00,,,,,
+Current Date EMDU.NER.TEAM.PC.COUNTS,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,EMDU.NER.TEAM.PC.COUNTS.X%,yyMMdd,15:30,16:00,,,,,
+Current Date EMDU.PC.COUNTS.ABS101,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,EMDU.PC.COUNTS.ABS101.X%,yyMMdd,15:30,16:00,,,,,
+DE5617 upload to mainframe,\\dgvmappuipd01\DMS\iCapture-5617-SCDB,*.ready,,15:45,16:00,,,,,
+Prior day DMS.TRCC console logs,\\Dgvmtrptpd01\DMS.TRCC.Console\Logs,*.log,,6:00,7:00,,1,0,0,0
+Prior day SA console logs,\\dgvmtrptpd01\SAConsoleAPI\Log,*.log,,6:00,7:00,,1,0,0,0
+Worksetupdate log,\\dgvmtrptpd01\WorksetUpdate\log,*.log,,6:00,7:00,,1,0,0,0
+Tax Miscellaneous Extract (TME) monitor,\\dgvmtrptpd01\d$\TME\Logs\InfoImageWebLog,*.log,,6:00,7:00,,1,0,0,0
+SEFT log check App,\\dgapdentsharepd\dms\seft\seftlogs,DMSGFtpAppLogFile%.Log,yyyyMMdd,7:00,8:00,,,,,
+SEFT log check Trans,\\dgapdentsharepd\dms\seft\seftlogs,DMSGFtpTransLogFile%.Log,yyyyMMdd,7:00,8:00,,,,,

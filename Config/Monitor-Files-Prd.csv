@@ -1,0 +1,11 @@
+Title,Folder,FileName,DateFormat,SizeLimitMB,dayThresholdLow,minuteThresholdLow,dayThresholdHigh,minuteThresholdHigh,StartTime,StopTime
+Unisys CAS Manager Console: BSTORE01,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR01,,100,0,0,0,0,7:00,15:00
+Unisys CAS Manager Console: BSTORE02,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR02,,100,0,0,0,0,7:00,15:00
+Unisys CAS Manager Console: BSTORE03,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR03,,100,0,0,0,0,7:00,15:00
+Unisys CAS Manager Console: BSTORE04,\\dgvmbcaspd01\SYS,TEMPLOC_BSTOR04,,100,0,0,0,0,7:00,15:00
+DE1 Fax ACK monitoring,\\dgvmappentpd02\DMS\DE1-Processing\Logs,DMSFAXACKTransLog%.log,MMddyyyy,,0,0,0,0,8:30,9:30
+Verify Upload Session with TRACK.DAT,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,TRACK.DAT.%.*,MMdd,,1,0,0,0,10:00,10:30
+Verify DMS_IEMSvc and DmsIcmServices are started (EMDU.NER.TEAM.PC.COUNTS),\\dgvmappentpd01\DMS\IEM\FSET\FSETReportsDir,EMDU.NER.TEAM.PC.COUNTS.X%,yyMMdd,,0,0,0,0,14:15,14:35
+Verify Current Date EMDU.NER.TEAM.PC.COUNTS are present after 3:00 p.m.,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,EMDU.PC.COUNTS.BAS*.X%,yyMMdd,,0,0,0,0,15:15,15:35
+Verify Current Date EMDU.PC.COUNTS are present after 3:00 p.m.,\\dgvmapptaxpd01\DMS\IEM\TAXReportsDir,EMDU.NER.TEAM.PC.COUNTS.X%,yyMMdd,,0,0,0,0,15:15,15:35
+DE5617 upload to mainframe,\\dgvmappuipd01\DMS\iCapture-5617-SCDB,*.ready,,,0,0,0,0,15:45,16:00

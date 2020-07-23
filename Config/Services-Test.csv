@@ -1,0 +1,7 @@
+ServerName,Service
+DGVMAPPENTPP01,DmsIcmServices
+DGVMAPPENTPP01,EDD.DMS.FileUtilityService
+DGVMBDOMPP01,UnisysUpdateUtility
+DGVMPDOMPP01,UnisysUpdateUtility
+DGVMTDOMPP01,UnisysTransferManager(IDOMPP01)
+DGVMAUXPP01,iOCR(PRE_PROD50)IQDIA

@@ -1,0 +1,15 @@
+Title,Folder,ItemType,FileExtensionFilter,FileExcludeFilter,dayThresholdLow,minuteThresholdLow,dayThresholdHigh,minuteThresholdHigh,StartTime,StopTime
+FTP_UISIDES over one hour old,\\dgapduisharepd\DMS\DE1101cz\FTP_UISIDES,File,zip,,0,0,0,60,15:00,17:00
+Internet Filing DE34,\\Dgvmapptaxpd01\iFile-iBatch\iFile-iBatch\iBatch-iCapture\DE34,Directory,,complete,,,,,15:15,16:00
+Internet Filing DE542,\\Dgapdtaxsharepd\iFile-iBatch\iFile-iBatch\iBatch-iCapture\DE542,Directory,,complete,,,,,15:15,16:00
+RBEEXT batch older than thirty minutes,\\Dgvmextrbepd01\RBE01,Directory,,,2,0,0,30,,
+DE 1011cz ZipWrap errors,\\dgvmappuipd01\DMS\DE1101cz\iBatch_Zipwrap\ZipWrap-Error ,File,,,,,,,,
+Prior day DIA xml files,\\dgvmimgdiapd01\DGVMDIASHAREPD\OUTPUT\XML\DIA,File,xml,,0,0,0,600,9:30,10:10
+iCapture ICMUI errors,\\dgvmappuipd01\DMS\iCapture-ICMUI ,File,err,,0,0,0,0,,
+iCapture ICMUI IEM older than one hour,\\dgvmappuipd01\DMS\iCapture-ICMUI ,File,IEM,,0,0,0,60,,
+iCapture IC3 monitor,\\dgapdtaxsharepd\DMS\IFAM-iCapture,File,IC3,,0,0,0,0,11:00,
+IVR - Ensure that DE4581 files are processed,\\dgvmappuipd01\iFile-iBatch\iBatch-iCapture\DE4581,File,,complete,0,0,0,0,16:00,17:00
+IVR - Ensure that DE4581 Non-FTPL files are processed,\\dgvmappuipd01\iFile-iBatch\DE4581\IVR\NON-FTPL,File,,,,,,420,7:15,16:30
+IVR - Ensure that DE4581 FTPL files are processed,\\dgvmappuipd01\iFile-iBatch\DE4581\IVR\FTPL,File,,,,,,420,7:15,16:30
+Worksetupdate verification,\\dgvmtrptpd01\SAConsoleAPI\WorksetFiles,File,,,,,,,6:35,7:30
+Check FSET files for .ERR,\\dgvmfstwebpd01\H$\Shares\Team\iCapture-FSET_ICM,File,err,,,,,,,

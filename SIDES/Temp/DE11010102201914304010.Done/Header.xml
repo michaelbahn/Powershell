@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<batch>
+  <id>4010</id>
+  <creator>SIDES</creator>
+  <folder>
+    <id>DE1101</id>
+    <page>
+      <id>HEADER</id>
+      <field data_type="NUMERIC">
+        <id>cashier_date</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data>01022019</result_data>
+        </result>
+      </field>
+      <field data_type="ALPHANUMERIC">
+        <id>batch_number</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data>4010</result_data>
+        </result>
+      </field>
+      <field data_type="ALPHA">
+        <id>document_page_type</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data />
+        </result>
+      </field>
+      <field data_type="ALPHA">
+        <id>capture_type</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data />
+        </result>
+      </field>
+      <field data_type="ALPHANUMERIC">
+        <id>form_id</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data />
+        </result>
+      </field>
+      <field data_type="NUMERIC">
+        <id>documnet_count</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data>24</result_data>
+        </result>
+      </field>
+      <field data_type="ALPHANUMERIC">
+        <id>effective_date</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data />
+        </result>
+      </field>
+      <field data_type="NUMERIC">
+        <id>source_code</id>
+        <result>
+          <creator>SIDES</creator>
+          <result_data>51</result_data>
+        </result>
+      </field>
+    </page>
+  </folder>
+</batch>

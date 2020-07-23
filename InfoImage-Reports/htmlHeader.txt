@@ -1,0 +1,17 @@
+<!DOCTYPE html><html><body>
+<head>
+<style>
+table {
+  border: 1px solid black;
+}
+th {
+  background-color: black;
+  color: white;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+</style>
+</head>

@@ -1,0 +1,7 @@
+MachineName,ServiceName,Status
+dmgosoapd03,DmsIcmServices,Running
+dgvsicmiempd01,DMS_File_Utility,Running
+dgvsicmiempd01,DmsIcmServices,Running
+dgvsicmiempd02,DMS_IEMSvc,Running
+dgvmuiapppd01,DMS_IEMSvc, Running
+dgvmdiapppd01,DmsIcmServices, Running

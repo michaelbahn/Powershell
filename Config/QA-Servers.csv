@@ -1,0 +1,6 @@
+Name,IPAddress,Domain,Subnet,DefaultGateway,DNS1,DNS2,WINSPrimaryServer,WINSSecondaryServer,IPversion,LMHOSTS_Lookup,NetBIOSoverTCPIP,SNMP_Status,SNMP_StartupType,SNMP_Contact,SNMP_Location,SNMP_TrapDestination,RemoteDesktopEnabled,AllowRemoteOnlyNLA,WindowsUpdate,IE_ESC_Admin,IE_ESC_User,ScreenSaverTimeout,PowerSleepTimeout,AlwaysShowMenus,DisplayFileSizeFolderTips,HiddenFilesAndFolders,HideEmptyDrives,HideFileExtensions,AlwaysShowIcons,DisplayFullPathInTitleBar
+DGVMPDOMPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMDDOMPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMBDOMPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMTDOMPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DGVMEXTDOMPP01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
